@@ -1,2 +1,2 @@
 # info
-mods for minetest
+Info mod
